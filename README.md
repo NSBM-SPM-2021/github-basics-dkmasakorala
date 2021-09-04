@@ -1,7 +1,8 @@
 # Learning Managment System
 ## Home Page
 ![new front page](https://user-images.githubusercontent.com/69035981/132083014-9ac70936-5cf8-4be3-89f1-577fa226755a.png)
-
+## Add User Page
+![add user page](https://user-images.githubusercontent.com/69035981/132083384-3261752a-8737-49bb-9d9a-ce573896278c.png)
 
 
 
