@@ -1,4 +1,8 @@
 # Learning Management System
+# Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/218f6239-3a53-4e8d-8efa-5e6ee061a515/deploy-status)](https://app.netlify.com/sites/upbeat-noyce-ae66e4/deploys)
+
+
 ## Home Page
 ![new front page](https://user-images.githubusercontent.com/69035981/132083014-9ac70936-5cf8-4be3-89f1-577fa226755a.png)
 ## Add User Page
